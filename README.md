@@ -1,4 +1,3 @@
-
 # FreshCart Pipelines
 
 End-to-end Data Engineering assignment covering Git, CI/CD, FreshCart ELT on Snowflake, Mage Iris ML, and RabbitMQ event streaming.
@@ -32,7 +31,7 @@ python -m venv .venv
 python -m pip install --upgrade pip
 pip install -r requirements.txt
 pytest -q
-```
+
 
 ## Author
 
