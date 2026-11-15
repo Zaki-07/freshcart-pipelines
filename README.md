@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FreshCart Pipelines
 
 End-to-end Data Engineering assignment: Git/CI, FreshCart ELT on Snowflake,
@@ -25,3 +26,6 @@ pytest -q
 
 Do not commit credentials, `.env` files, generated CSV files, model files, or logs.
 See `.gitignore`.
+=======
+# freshcart-pipelines
+>>>>>>> 806ffc2b15e355cffbfae685eca4346ac880e7a0
