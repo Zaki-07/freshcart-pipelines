@@ -1,0 +1,7 @@
+pytest
+pandas
+numpy
+scikit-learn
+pika
+pyyaml
+snowflake-connector-python
